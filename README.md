@@ -7,6 +7,12 @@
 🌈 I'm interested in Data Analysis & Web Programming<br>
 ⚡ Fun fact: My MBTI -> *EST(F)J*<br><br>
 📫 How to reach me: ...
+  
+  <a href="https://www.instagram.com/isakacindy/">
+    <img 
+        src="http://img.shields.io/badge/-#FCF8E2?style=flat&logo=Instagram&link=https://www.instagram.com/isakacindy/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 ---
