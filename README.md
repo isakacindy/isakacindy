@@ -8,11 +8,8 @@
 ⚡ Fun fact: My MBTI -> *EST(F)J*<br><br>
 📫 How to reach me: ...
   
-  <a href="https://www.instagram.com/isakacindy/">
-    <img 
-        src="http://img.shields.io/badge/-FCF8E2?style=flat&logo=Instagram&link=https://www.instagram.com/isakacindy/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+  <a href="https://www.instagram.com/isakacindy/" target="_blank"><img src="https://img.shields.io/badge/isakacindy-FCF8E2?style=flat-square&logo=Instagram&logoColor=Black"/></a>&nbsp;
+  <a href="https://blog.naver.com/isakacindy/" target="_blank"><img src="https://img.shields.io/badge/isakacindy-F9D1DE?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 <!--
 ---
