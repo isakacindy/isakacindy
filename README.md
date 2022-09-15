@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## Hi there, I'm MinJeong Kim🐱✨
+  ## Hi there, I'm MinJeong Kim🐱🐾
 
 🎓 I’m currently studying at Sejong University<br>
 🌱 I’m now majoring in Data Science<br>
