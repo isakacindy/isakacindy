@@ -9,7 +9,7 @@
 ⚡ Fun fact: My MBTI -> *EST(F)J*<br><br>
 📫 How to reach me: ...
 
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisakacindy&count_bg=%23C6EBC5&title_bg=%23000000&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisakacindy&count_bg=%23C6EBC5&title_bg=%23838383&icon=git.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
  
   <a href="https://www.instagram.com/isakacindy/" target="_blank"><img src="https://img.shields.io/badge/isakacindy-FFFDDE?style=flat-square&logo=Instagram&logoColor=Black"/></a>&nbsp;
   <a href="https://isakacindy.github.io/" target="_blank"><img src="https://img.shields.io/badge/isakacindy-D6E5FA?style=flat-square&logo=Github&logoColor=Black"/></a>
