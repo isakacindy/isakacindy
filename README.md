@@ -4,7 +4,6 @@
 
 🎓 I’m currently studying at Sejong University<br>
 🌱 I’m now majoring in Data Science<br>
-✨ I'm working on Environmental Big Data Analysis Laboratory<br>
 🌊 I'm interested in Data Analysis & Data Visualization<br>
 ⚡ Fun fact: My MBTI -> *EST(F)J*<br><br>
 📫 How to reach me: ...
