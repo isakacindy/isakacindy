@@ -15,7 +15,7 @@
    <br>
 </div>
 <div align="center">
-	<p>🔡 𝙼𝚊𝚓𝚘𝚛 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 </p>
+	<p>🧸 𝙼𝚊𝚓𝚘𝚛 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 </p>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
@@ -31,7 +31,7 @@
 <br><br>
 <div align=center>
 	 <details>
-		<summary>🛠️ 𝙼𝚒𝚗𝚘𝚛 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔
+		<summary>🎀 𝙼𝚒𝚗𝚘𝚛 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔
 		</summary>
 		<br>
 		<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
