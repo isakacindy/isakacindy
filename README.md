@@ -18,6 +18,7 @@
 	<p>🔡 𝙼𝚊𝚓𝚘𝚛 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 </p>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
   	<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
 	<br>
