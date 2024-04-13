@@ -53,5 +53,6 @@
 <div align="center">
    <h3>🌟 𝐌𝐲 𝐬𝐭𝐚𝐭𝐮𝐬 </h3>
    <br>
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isakacindy)](https://solved.ac/isakacindy)
 </div>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isakacindy)](https://solved.ac/isakacindy)
