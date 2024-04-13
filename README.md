@@ -18,11 +18,11 @@
 	<p>🔡 𝙼𝚊𝚓𝚘𝚛 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 </p>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 	<br>
+ 	<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
