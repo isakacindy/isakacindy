@@ -12,7 +12,7 @@
 
 <div align="center">
    <h3>🛠️  𝐌𝐲 𝐭𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤 </h3>
-   <br><br>
+   <br>
 </div>
 <div align="center">
 	<p>🔡 𝙼𝚊𝚓𝚘𝚛 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 </p>
@@ -46,4 +46,10 @@
 	 	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
 		<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 	 </details>
+</div>
+<br><hr><br>
+
+<div align="center">
+   <h3>🌟 𝐌𝐲 𝐬𝐭𝐚𝐭𝐮𝐬 </h3>
+   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=isakacindy)](https://solved.ac/isakacindy)
 </div>
