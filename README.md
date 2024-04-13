@@ -31,6 +31,8 @@
 <br><br>
 <div align=center>
 	<p>🛠️ 𝙼𝚒𝚗𝚘𝚛 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 </p>
+	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white" />
 	<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" />
@@ -38,5 +40,6 @@
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=NODE.JS&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=EXPRESS&logoColor=white" />
 	<br>
+ 	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 </div>
