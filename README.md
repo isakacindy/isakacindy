@@ -12,11 +12,11 @@
 
 <div align="center">
    <h3>👋  𝐌𝐲 𝐭𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤 </h3>
-   <p>🔡 𝙼𝚊𝚓𝚘𝚛 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 </p>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Tableau-#E97627?style=for-the-badge&logo=Python&logoColor=white">
+	<p>🔡 𝙼𝚊𝚓𝚘𝚛 𝚝𝚎𝚌𝚑 𝚜𝚝𝚊𝚌𝚔 </p>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+  	<img src="https://img.shields.io/badge/Tableau-#E97627?style=flat&logo=Python&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
