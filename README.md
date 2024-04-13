@@ -43,6 +43,7 @@
 		<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=NODE.JS&logoColor=white" />
 		<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=EXPRESS&logoColor=white" />
 		<br>
+		<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
 	 	<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white" />
 		<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white" />
 	 </details>
@@ -52,5 +53,5 @@
 <div align="center">
    <h3>🌟 𝐌𝐲 𝐬𝐭𝐚𝐭𝐮𝐬 </h3>
    <br>
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isakacindy)](https://solved.ac/isakacindy/)
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isakacindy)](https://solved.ac/isakacindy)
 </div>
