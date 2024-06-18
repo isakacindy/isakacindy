@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=default&text=MinJeong%20Kim&textBg=false&fontColor=ffc0cb&section=header&reversal=false&fontAlign=66&desc=meanvelop&descAlign=90&fontSize=80&descAlignY=62)
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FFC0CB&title_bg=%23848484&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fisakacindy%2Fhit-counter&count_bg=%23FFC0CB&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <div align="center">
    <h3>👋🏻  𝐇𝐢, 𝐭𝐡𝐞𝐫𝐞! 𝐈'𝐦.. </h3>
